@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "teja",
+      "email": "teja@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "name": "yashu",
+      "email": "yasaswiniyarabala@gmail.com",
+      "password": "yashu2005",
+      "id": "iEp-hQ48pyk"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Sony WH-1000XM5 Headphones",
+      "brand": "Sony",
+      "category": "Electronics",
+      "budget": "High",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+      "description": "Premium wireless headphones with industry-leading noise cancellation and 30-hour battery life.",
+      "deliveryTime": "2-3 Days",
+      "warranty": "1 Year",
+      "rating": 4.7,
+      "price": 26990,
+      "stock": 25,
+      "currency": "INR",
+      "highlight": "Noise Cancellation",
+      "color": "Black",
+      "features": [
+        "Active Noise Cancellation",
+        "30 Hour Battery",
+        "Bluetooth 5.2",
+        "Fast Charging"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Nike Air Max Running Shoes",
+      "brand": "Nike",
+      "category": "Footwear",
+      "budget": "Medium",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+      "description": "Lightweight and comfortable running shoes with cushioned air sole for everyday performance.",
+      "deliveryTime": "3-5 Days",
+      "warranty": "6 Months",
+      "rating": 4.8,
+      "price": 8995,
+      "stock": 40,
+      "currency": "INR",
+      "highlight": "Air Cushioning",
+      "color": "Red",
+      "features": [
+        "Breathable Mesh",
+        "Air Cushion Sole",
+        "Lightweight Design",
+        "Durable Grip"
+      ]
+    },
+    {
+      "name": "Iphone 17 pro max",
+      "brand": "Iphone",
+      "image": "https://www.designinfo.in/wp-content/uploads/0004/07/Apple-iPhone-18-Pro-Max-Burgundy-1-485x485.webp",
+      "description": "The current Apple iPhone lineup in India features the latest models ranging from standard to foldable and pro versions",
+      "id": "e9SSiZmZEew"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
